@@ -20,10 +20,10 @@ Compile: g++ -std=c++11 hennel.c -o hennel.exe
 
 Run (on windows!): hennel.exe < findroot.txt
 
-The .txt files have Basic Block graphs that represent simple programms: 1 2 3 in one line means: 1->2 and 1->3.
+The .txt files have Basic Block graphs that represent simple programs: 1 2 3 in one line means: 1->2 and 1->3.
 
-The excluded_paths.txt has the number of paths excluded and the path themselves (you can change as you like).
+The excluded_paths.txt has the number of paths excluded and the path themselves (you can change them as you like).
 
 The results.txt is the file where all the results are stored (and some other info, like number of forward trees, etc.)
 
-The hennel_graphs/ has some graphs created (based on the triangle.txt file) with the use of the dot programm.
+The hennel_graphs/ has some graphs created (based on the triangle.txt file) with the use of the dot program.
