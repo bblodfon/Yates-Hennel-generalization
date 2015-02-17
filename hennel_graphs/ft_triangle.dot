@@ -1,0 +1,21 @@
+digraph triangle_block {
+
+node [fontsize="20"]
+edge [fontsize="20" penwidth="2"]
+1 [color="red" style="bold"]
+19 [color="green" style="bold"] 
+
+1->2
+2->19
+2->3
+3->5
+5->7 [label="a"]
+5->7 [label="b" style="dotted" ]
+7->9 [label="a" style="dotted" ]
+7->9 [label="b"]
+//{rank=same; 8 9}
+9->11 [label="a"]
+9->11 [label="b" style="dotted" ]
+11->13
+
+}
