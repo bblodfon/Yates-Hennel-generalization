@@ -26,4 +26,4 @@ The excluded_paths.txt has the number of paths excluded and the path themselves 
 
 The results.txt is the file where all the results are stored (and some other info, like number of forward trees, etc.)
 
-The hennel_graphs/ has some graphs created (based on the triangle.txt file) with the use of the dot program.
+The hennel_graphs folder has some graphs created (based on the triangle.txt file) with the use of the dot program.
