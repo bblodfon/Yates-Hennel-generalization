@@ -1,6 +1,6 @@
 # yates-hennel-generalization
 
-A generalization of the Yates and Hennel algorithm
+In this repo I have implemented a generalization of the Yates and Hennel algorithm.
 
 The [Yates-Hennel paper](https://github.com/bblodfon/yates-hennel-generalization/blob/master/doc/Yates-Hennel%20paper.pdf) presents an algorithm for full branch coverage testing of any program.
 
