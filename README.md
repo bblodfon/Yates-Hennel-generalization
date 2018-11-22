@@ -1,7 +1,8 @@
-# Yates_Hennel_generalization
+# yates-hennel-generalization
+
 A generalization of the Yates and Hennel algorithm
 
-The 'Yates-Hennel' paper presents an algorithm for full branch coverage testing of any program.
+The [Yates-Hennel paper](https://github.com/bblodfon/yates-hennel-generalization/blob/master/doc/Yates-Hennel%20paper.pdf) presents an algorithm for full branch coverage testing of any program.
 
 The implementation of the simple Yates-Hennel algorithm would choose one arbitrary forward tree from
 the Decision-to-Decision (DD) graph and a backward one and then it would calculate (n-m+1) paths based
