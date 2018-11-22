@@ -1,4 +1,4 @@
-# yates-hennel-generalization
+# yates-hennel-gen
 
 In this repo I have implemented a generalization of the Yates and Hennel algorithm.
 
